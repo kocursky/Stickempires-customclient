@@ -1,0 +1,13 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "index": 0,
+      "title": "Welcome!",
+      "message": "Welcome to the new Custom Stick Empires server!",
+      "date": "22.11.2026",
+      "type": 0,
+      "youtubeId": ""
+    }
+  ]
+}
